@@ -1,0 +1,43 @@
+h1{
+    color: yellow;
+    text-align: left;
+    font-family: Snell Roundhand, cursive;
+    font-size: 100px;
+}
+.image{
+    object-fit: left;
+    height: 600px;
+    width: 500px;
+    
+}
+.image2{
+    object-fit: center;
+    height: 600px;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    text-align: left;
+    display: block;
+    font-size: 25px;
+    font-family: Snell Roundhand, cursive;
+    color: yellow;
+}
+
+p{
+    color: red;
+    text-align: left;
+    font-family: Snell Roundhand, cursive;
+    font-size: 50px;
+}
+
+body{
+    background-image: url(./powerup.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100% 200%;
+   
+}
